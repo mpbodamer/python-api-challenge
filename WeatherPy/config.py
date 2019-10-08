@@ -1,0 +1,1 @@
+openWeatherKey = "YOUR_KEY_HERE"
